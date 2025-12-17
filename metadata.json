@@ -1,0 +1,5 @@
+{
+  "name": "Neon Tetris Survival",
+  "description": "A survival-based Tetris game. Survive for 60 seconds to advance to the next level. Speed increases with every level.",
+  "requestFramePermissions": []
+}
